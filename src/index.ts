@@ -49,7 +49,7 @@ class Bloclchain {
 
 const blockchain = new Bloclchain()
 
-const array = ["엄주하는 왕궁디", "엄마 트롤", "𝒇(x)′"].forEach((a)=>{
+const array = ["ㅓㅃㄱ", "아", "𝒇(x)′"].forEach((a)=>{
     blockchain.addBlock(a)
 })
 
